@@ -3,6 +3,7 @@
 #### Data structures (so far)
 
 * Queue
+* Tree
 
 
 #### Subprojects:
